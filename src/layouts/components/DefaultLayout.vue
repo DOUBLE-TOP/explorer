@@ -188,7 +188,7 @@ const showDiscord = window.location.host.search('explorer.doubletop.tech') > -1;
           {{ item?.heading }}
         </div>
       </div>
-      <!-- <div class="px-2">
+      <div class="px-2">
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
           Sponsors
         </div>
@@ -221,7 +221,7 @@ const showDiscord = window.location.host.search('explorer.doubletop.tech') > -1;
           >
             Becole
           </div>
-        </a> -->
+        </a>
 
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">Links</div>
         <a
