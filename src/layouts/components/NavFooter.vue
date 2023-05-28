@@ -8,10 +8,10 @@
       By
       <a
         class="link link-primary no-underline"
-        href="https://ping.pub"
+        href="https://explorer.doubletop.tech"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >explorer.doubletop.tech</a
       >
     </div>
     <div

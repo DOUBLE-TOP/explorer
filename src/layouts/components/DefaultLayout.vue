@@ -33,7 +33,7 @@ const changeOpen = (index: Number) => {
     sidebarOpen.value = !sidebarOpen.value;
   }
 };
-const showDiscord = window.location.host.search('ping.pub') > -1;
+const showDiscord = window.location.host.search('explorer.doubletop.tech') > -1;
 </script>
 
 <template>
@@ -46,7 +46,7 @@ const showDiscord = window.location.host.search('ping.pub') > -1;
       <div class="flex items-center pl-4 py-4 mb-1">
         <img class="w-10 h-10" src="../../assets/logo.svg" />
         <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-          Ping.pub
+          explorer.doubletop.tech
         </h1>
         <div
           class="pr-4 cursor-pointer xl:!hidden"
@@ -198,7 +198,7 @@ const showDiscord = window.location.host.search('ping.pub') > -1;
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >
           <img
-            src="https://ping.pub/logos/osmosis.jpg"
+            src="https://explorer.doubletop.tech/logos/osmosis.jpg"
             class="w-6 h-6 rounded-full mr-3"
           />
           <div
@@ -225,7 +225,7 @@ const showDiscord = window.location.host.search('ping.pub') > -1;
 
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">Links</div>
         <a
-          href="https://twitter.com/ping_pub"
+          href="https://twitter.com/doubletop_io"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
         >

@@ -31,7 +31,7 @@ const chains = computed(() => {
         <img src="/logo.svg" />
       </div>
       <h1 class="text-primary text-3xl md:!text-6xl font-bold mr-2">
-        Ping dashboard
+        Dashboard
       </h1>
       <div class="badge badge-primary badge-outline mt-1 text-sm md:!mt-8">
         Beta
